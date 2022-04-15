@@ -7,6 +7,7 @@ In this project, we perform **Exploratory Data Analysis** on the netlfix dataset
 ## Files
 
 **netflix.ipynb** containts code all the necessary code.
+**netlfix_titles.csv** contatins the raw data.
 
 ## Dataset
 
